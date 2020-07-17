@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, i'm Marcio Sardou
 
-<!--
-**MarcioSardou/marciosardou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am recently graduated in systems analysis and development. Currently I work as a junior web developer and use the following technologies as main tools: Html, css, Javascript, Reactjs and Node.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Linkedin](https://www.linkedin.com/in/marcio-sardou-262b84149/)
+
+
+
+### Projects 
+Down here I linked some projects that I'm working on
+
+point_down
