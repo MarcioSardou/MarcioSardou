@@ -11,4 +11,3 @@ I am recently graduated in systems analysis and development. Currently I work as
 ### Projects 
 Down here I linked some projects that I'm working on
 
-point_down
